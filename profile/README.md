@@ -4,7 +4,7 @@
 
 **Open-source software for the Ummah, built with Ihsan.**
 
-[Website](https://muslimoss.org) · [Governance](https://github.com/muslimoss/governance) · [Contributing](https://github.com/muslimoss/.github/blob/main/CONTRIBUTING.md) · [Discussions](https://github.com/orgs/muslimoss/discussions)
+[Governance](https://github.com/muslimoss/.github/blob/main/GOVERNANCE.md) · [Contributing](https://github.com/muslimoss/.github/blob/main/CONTRIBUTING.md) · [Discussions](https://github.com/orgs/muslimoss/discussions)
 
 </div>
 
@@ -40,7 +40,7 @@ Participation is open to everyone, regardless of background or belief. Respect f
 
 ## Governance
 
-MuslimOSS is community-governed, not company-owned. Decision-making structure, maintainer roles, and our relationship with scholarly advisors are documented in [`governance`](https://github.com/muslimoss/governance).
+MuslimOSS is community-governed, not company-owned. Decision-making structure, maintainer roles, and our relationship with scholarly advisors are documented in [`GOVERNANCE.md`](https://github.com/muslimoss/.github/blob/main/GOVERNANCE.md).
 
 ## License
 
